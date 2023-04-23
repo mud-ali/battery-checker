@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 battery = "0.7.8"
+notify-rust = "4"
